@@ -31,6 +31,7 @@ Explored monthly revenue trends and high-value customers.
 📎 Project Files & Queries
 
 🔗 https://github.com/ankitabhattacharya1809/SQL-OnlineBookstore-Analysis.git
+
 📩 Let’s Connect
 
 🔗 www.linkedin.com/in/ankitabhattacharya18
