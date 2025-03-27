@@ -1,4 +1,5 @@
 Online Bookstore Analysis using SQL
+
 📌 Objective
 Analyze sales, customer behavior, and stock levels of an online bookstore using SQL.
 
