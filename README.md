@@ -18,8 +18,6 @@ Set up the database and import CSV data into tables.
 
 Run SQL queries to extract insights.
 
-Generate reports & visualizations for better understanding.
-
 📊 Key Insights
 
 Identified top-selling books and genres.
