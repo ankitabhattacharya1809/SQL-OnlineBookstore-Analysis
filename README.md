@@ -6,7 +6,7 @@
 
 **Database**: OnlineBookstore
 
-This project simulates a simplified bookstore environment to showcase SQL capabilities in database creation, data loading, and analysis. It covers database and table setup, data importing from CSV files, and solving real-world business questions using SQL. It is ideal for beginners looking to gain hands-on experience with SQL and relational databases.
+This project simulates a simplified bookstore environment to showcase SQL capabilities in database creation, data loading, and analysis. It covers database and table setup, data importing from CSV files, and solving real-world business questions using SQL.
 
 ## Objectives
 **Database Setup**: Create and define a structured relational database for the bookstore.
